@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "dependencies": {
     "cypress": "^9.6.1"
+  },
+  "scripts": {
+    "cypress:open": "npx cypress open"
   }
 }
